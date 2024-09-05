@@ -16,9 +16,7 @@ The dataset includes multiple features such as age, education level, occupation,
 
 𝟭) 𝗗𝗮𝘁𝗮 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 
-Performed exploratory data analysis (EDA) to understand the dataset.
-Calculated summary statistics, identified outliers, and visualized distributions.
-Handled missing values and corrected any inconsistencies in the data.
+Handled missing values in the dataset.
 
 𝟮) 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻
 
@@ -39,7 +37,6 @@ Split the dataset into training and testing sets to evaluate model performance.
 𝟰) 𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴
 
 Trained several regression models using the processed data.
-Used cross-validation to ensure models were generalized well.
 Evaluated each model using performance metrics such as Mean Squared Error (MSE), R-squared (R²), and Root Mean Squared Error (RMSE).
 
 𝟱) 𝗠𝗼𝗱𝗲𝗹 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻
@@ -54,7 +51,6 @@ Saved the best-performing model using joblib for future use in the application.
 𝟳) 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 
 Developed a user-friendly web application using Streamlit that allows users to predict household income based on the input of demographic and socioeconomic features.
-The app also provides visual feedback in the form of graphs for better understanding of income trends.
 
 𝟴) 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯
 
