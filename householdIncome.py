@@ -7,7 +7,7 @@ household_income_model_pkl = r"C:\Users\Lenovo\OneDrive\Desktop\Juypter_projects
 loaded_model = joblib.load(household_income_model_pkl)
 
 
-# Min-Max normalization parameters (example values, replace with actual values used in training)
+# Min-Max normalization parameters(replace with actual values used in training)
 income_min = 10000  # Replace with the minimum value used during normalization
 income_max = 100000  # Replace with the maximum value used during normalization
 
@@ -62,9 +62,9 @@ X_new = np.array([[Age, Education_Level, Occupation, Number_of_Dependents, Locat
 button = st.button("Submit")
 
 if button:
-    # st.write("Input Features:", X_new)  # Debugging line
+    # st.write("Input Features:", X_new) 
     raw_result = loaded_model.predict(X_new)
-    st.write("Normalized Prediction:", raw_result)  # Debugging line
+    st.write("Normalized Prediction:", raw_result)  
     
     # Inverse normalization for Min-Max scaling
     scaled_result = raw_result[0] * (income_max - income_min) + income_min
