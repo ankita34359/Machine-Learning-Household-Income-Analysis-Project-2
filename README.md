@@ -7,10 +7,10 @@ The dataset includes multiple features such as age, education level, occupation,
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:
 
-𝗛𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱 I𝗻𝗰𝗼𝗺𝗲 M𝗼𝗱𝗲𝗹.𝗶𝗽𝘆𝗻𝗯: Jupyter notebook containing the full data exploration, preprocessing, model training, evaluation, and selection process.
-𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱𝗜𝗻𝗰𝗼𝗺𝗲.𝗽𝘆: Streamlit web application that allows users to input data and predict the household income based on the trained model.
-𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱_𝗶𝗻𝗰𝗼𝗺𝗲_𝗱𝗮𝘁𝗮.𝗰𝘀𝘃: The dataset used for training and evaluating the models.
-𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱_𝗶𝗻𝗰𝗼𝗺𝗲_𝗰𝗵𝘂𝗿𝗻_𝗺𝗼𝗱𝗲𝗹.𝗽𝗸𝗹: The saved machine learning model (using joblib) that is used for predictions in the Streamlit app.
+- 𝗛𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱 I𝗻𝗰𝗼𝗺𝗲 M𝗼𝗱𝗲𝗹.𝗶𝗽𝘆𝗻𝗯: Jupyter notebook containing the full data exploration, preprocessing, model training, evaluation, and selection process.
+- 𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱𝗜𝗻𝗰𝗼𝗺𝗲.𝗽𝘆: Streamlit web application that allows users to input data and predict the household income based on the trained model.
+- 𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱_𝗶𝗻𝗰𝗼𝗺𝗲_𝗱𝗮𝘁𝗮.𝗰𝘀𝘃: The dataset used for training and evaluating the models.
+- 𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱_𝗶𝗻𝗰𝗼𝗺𝗲_𝗰𝗵𝘂𝗿𝗻_𝗺𝗼𝗱𝗲𝗹.𝗽𝗸𝗹: The saved machine learning model (using joblib) that is used for predictions in the Streamlit app.
 
 𝗧𝗮𝘀𝗸𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱
 
