@@ -1,18 +1,18 @@
 # Household Income Prediction Model
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
+## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
 
 This project aims to predict annual household income based on various demographic, socioeconomic, and personal factors. 
 The dataset includes multiple features such as age, education level, occupation, number of dependents, and more. The objective is to build a machine learning model that can accurately predict household income based on these factors.
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:
+## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲:
 
 - 𝗛𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱 I𝗻𝗰𝗼𝗺𝗲 M𝗼𝗱𝗲𝗹.𝗶𝗽𝘆𝗻𝗯: Jupyter notebook containing the full data exploration, preprocessing, model training, evaluation, and selection process.
 - 𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱𝗜𝗻𝗰𝗼𝗺𝗲.𝗽𝘆: Streamlit web application that allows users to input data and predict the household income based on the trained model.
 - 𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱_𝗶𝗻𝗰𝗼𝗺𝗲_𝗱𝗮𝘁𝗮.𝗰𝘀𝘃: The dataset used for training and evaluating the models.
 - 𝗵𝗼𝘂𝘀𝗲𝗵𝗼𝗹𝗱_𝗶𝗻𝗰𝗼𝗺𝗲_𝗰𝗵𝘂𝗿𝗻_𝗺𝗼𝗱𝗲𝗹.𝗽𝗸𝗹: The saved machine learning model (using joblib) that is used for predictions in the Streamlit app.
 
-𝗧𝗮𝘀𝗸𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱
+## 𝗧𝗮𝘀𝗸𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱
 
 𝟭) 𝗗𝗮𝘁𝗮 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 
@@ -56,6 +56,6 @@ Developed a user-friendly web application using Streamlit that allows users to p
 
 Uploaded the Jupyter notebook, trained model, Streamlit app, and dataset to GitHub for public access.
 
-𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻
+## 𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻
 
 This project successfully demonstrates the ability to predict household income based on a variety of demographic and socioeconomic factors. The Streamlit application provides an easy-to-use interface for users to input relevant data and receive income predictions. 
